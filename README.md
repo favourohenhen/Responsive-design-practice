@@ -30,36 +30,6 @@ A learning page built to practice:
 - Responsive typography and spacing
 - Sidebar layout behavior at different screen widths
 
-## Project Structure
-
-```text
-Responsive Design/
-├── apex-tech-website/
-│   ├── index.html
-│   ├── style.css
-│   └── images/
-├── media-queries/
-│   ├── index.html
-│   ├── styles.css
-├── README.MD
-└── .git/
-```
-
-## How to Run
-
-Open any page directly in a browser, or use a local development server such as Live Server in VS Code.
-
-Examples:
-
-- `apex-tech-website/index.html`
-- `media-queries/index.html`
-
-## Technologies Used
-
-- HTML5
-- CSS3
-- Responsive design principles
-- Media queries
 
 ## Notes
 
